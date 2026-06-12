@@ -391,21 +391,6 @@ Hackathon project exploring decentralized governance, funding mechanisms, and fa
 
 <div align="center">
 
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@master
-```
-
 <img src="https://raw.githubusercontent.com/Rahul2671/Rahul2671/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
